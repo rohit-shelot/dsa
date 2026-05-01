@@ -1,6 +1,6 @@
 # DSA
 
-Done 5 problems till date.
+Done 7 problems till date.
 
 30/04/2026
 1. Reverse an array
@@ -11,4 +11,4 @@ Done 5 problems till date.
 1/05/2026
 1. Remove Duplicates from sorted array
 2. Moves Zero to the end
-
+3. Two Sum Problem
