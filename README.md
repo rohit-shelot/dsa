@@ -12,3 +12,4 @@ Done 7 problems till date.
 1. Remove Duplicates from sorted array
 2. Moves Zero to the end
 3. Two Sum Problem
+4. Missing Number in array
