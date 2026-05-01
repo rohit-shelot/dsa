@@ -1,6 +1,6 @@
 # DSA
 
-Done 7 problems till date.
+Done 8 problems till date.
 
 30/04/2026
 1. Reverse an array
