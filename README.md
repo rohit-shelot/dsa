@@ -10,4 +10,5 @@ Done 5 problems till date.
 
 1/05/2026
 1. Remove Duplicates from sorted array
+2. Moves Zero to the end
 
