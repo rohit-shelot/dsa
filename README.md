@@ -13,3 +13,7 @@ Done 8 problems till date.
 2. Moves Zero to the end
 3. Two Sum Problem
 4. Missing Number in array
+
+2/05/2026
+1. SubArray
+2. LinkedList Cycle
