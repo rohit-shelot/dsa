@@ -1,6 +1,6 @@
 # DSA
 
-Done 8 problems till date.
+Done 11 problems till date.
 
 30/04/2026
 1. Reverse an array
@@ -17,3 +17,6 @@ Done 8 problems till date.
 2/05/2026
 1. SubArray
 2. LinkedList Cycle
+
+3/05/2026
+1. Reverse a Linkedlist
