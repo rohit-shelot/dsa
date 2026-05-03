@@ -6,7 +6,7 @@ public class LL_from_scratch{
         this.size=0;
     }
 
-    class Node{
+    static class Node{
         String data;
         Node next;
 
